@@ -11,7 +11,7 @@ body{
 .titulo-principal{
     text-transform: uppercase;
     text-align: center;
-    color: blueviolet;
+    color: rgba(126, 10, 234, 0.429);
     background-color: rgb(226, 135, 15);
     padding: 30px;
 }
