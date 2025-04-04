@@ -43,8 +43,12 @@ ul{
 }
 
 .itens{
+    font-style: italic;
+
+
+
+}
+
+.imagembeneficio{
     width: 50%;
-
-
-
 }
