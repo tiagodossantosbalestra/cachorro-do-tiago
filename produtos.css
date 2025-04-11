@@ -46,3 +46,9 @@ nav a:hover {
     border: 2px solid #80adff;
     border-radius: 10px;
 }
+
+.produtos li:hover {
+
+    border-color: blueviolet;
+
+}
