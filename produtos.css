@@ -18,7 +18,7 @@ nav li{
 }
 nav a{
     text-transform: uppercase;
-    color: rgb(0, 0, 0);
+    color: rgb(245, 24, 24);
     font-weight: bold;
     font-size: 22px;
     text-decoration: none;
@@ -42,8 +42,7 @@ nav a:hover {
     vertical-align: text-top;
     margin: 0 1.5%;
     padding: 30PX 20PX;
-
-
-
-
+    box-sizing: border-box;
+    border: 2px solid #80adff;
+    border-radius: 10px;
 }
