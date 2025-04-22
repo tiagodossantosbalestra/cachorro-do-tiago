@@ -10,7 +10,8 @@ body{
 }
 
 header{
-    text-align: center;
+    /* text-align: center; */
+    background-color: rgb(255, 170, 0);
 }
 
 .titulo-principal{
