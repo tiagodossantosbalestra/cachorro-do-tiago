@@ -1,0 +1,13 @@
+body{
+	margin : 0px;
+	padding: 0px;
+}
+
+form{
+  width: 50%;
+  margin: 50px auto; /* centraliza horizontalmente e adiciona margem superior */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
