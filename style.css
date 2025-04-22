@@ -2,7 +2,6 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-
 }
 
 #banner{
@@ -10,7 +9,6 @@ body{
 }
 
 header{
-    /* text-align: center; */
     background-color: rgb(255, 170, 0);
 }
 
@@ -39,6 +37,7 @@ header{
     padding: 30px;
     margin: 0px;
 }
+
 /* adicionei o .principal */
 .principal ul{
     display: inline-block;
