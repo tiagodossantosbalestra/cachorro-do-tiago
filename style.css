@@ -38,8 +38,8 @@ header{
     padding: 30px;
     margin: 0px;
 }
-
-ul{
+/* adicionei o .principal */
+.principal ul{
     display: inline-block;
     vertical-align: top;
     width: 20%;
