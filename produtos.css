@@ -2,20 +2,24 @@ header{
     background-color: rgb(255, 170, 0);
     padding: 20px;
 }
+
 .caixa{
     position: relative;
     width: 940px;
     margin: 0 auto;
 }
+
 nav{
     position: absolute;
     top: 110px;
     right: 0;
 }
+
 nav li{
     display: inline;
     margin: 0 0 0 15px;
 }
+
 nav a{
     text-transform: uppercase;
     color: rgb(245, 24, 24);
@@ -30,12 +34,11 @@ nav a:hover {
 }
 
 .produtos {
-
    width: 940px; 
    padding: 50PX 0;
 }
 
-.PRODUTOS LI {
+.produtos li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -48,7 +51,6 @@ nav a:hover {
 }
 
 .produtos li:hover {
-
     border-color: blueviolet;
 
 }
